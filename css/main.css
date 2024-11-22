@@ -1,0 +1,21 @@
+/* ::-webkit-scrollbar {
+    width: 10px;
+    background-color: #ededed;
+ }
+ 
+ ::-webkit-scrollbar-thumb {
+    background-color: #333;
+    border-radius: 5px;
+ } */
+
+
+.sec1{
+   background-color: rgb(0, 209, 209);
+}
+
+.sec1 h1{
+   font-family: "Montserrat", serif;
+   font-size: 50px;
+   font-weight: 700;
+   color: brown !important;
+}
